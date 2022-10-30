@@ -1,3 +1,3 @@
 # swembeddedcourse
-SW embedded course project
+SW embedded course project:
 Matti Polojärvi
